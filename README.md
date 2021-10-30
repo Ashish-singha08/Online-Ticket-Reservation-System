@@ -1,6 +1,6 @@
 # Online-Ticket-Reservation-System
 A railway ticket resrvation system, coded in c and built using socket programming.
-1. Language used
+1. Language used C
 2. Socket programming
 3. Record locking
 4. system call
